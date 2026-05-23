@@ -265,9 +265,8 @@ The Customer Churn Prediction project demonstrates the practical implementation 
 
 # 👩‍💻 Author
 
-Shruti Choudhary  
-B.Tech CSE Student  
-Data Science Enthusiast
+Shruti   
+
 
 ---
 
